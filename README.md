@@ -14,7 +14,8 @@ In this project we draw the Parliament bulding using Codeblocks and C++ programm
 
 
 ## Features
-I have used  Glut, OpenGL Utility Toolkit to implement this project. For documentation i folow https://www.khronos.org/api/opengl.
+I have used  Glut, OpenGL Utility Toolkit to implement this project. For documentation i follow https://www.khronos.org/api/opengl.
+I have started writing C++ program in main.cpp file for draw this bulding . Here I draw sky, sky with birds, grass, stairs, main building, national flag etc.
 
 ### Sky
 
