@@ -1,9 +1,8 @@
 # depslib dependency file v1.0
-1653651072 source:e:\national parliament house\main.cpp
+1653651309 source:e:\national parliament house\main.cpp
 	<cstdio>
 	<windows.h>
 	<math.h>
-	<GL/freeglut.h>
 	<GL/gl.h>
 	<GL/glut.h>
 

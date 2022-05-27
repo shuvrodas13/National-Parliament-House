@@ -7,7 +7,7 @@
 			<Cursor1 position="12206" topLine="576" />
 		</Cursor>
 	</File>
-	<Target name="Debug" top="main.cpp">
+	<Target name="Debug" top="">
 		<File name="main.cpp" />
 	</Target>
 </CodeBlocks_layout_file>
